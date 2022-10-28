@@ -2,7 +2,7 @@
  * Spanning Tree Edge class for CS1501 Project 4
  * @author	Dr. Farnan
  */
-package cs1501_p4;
+package Network_Analysis;
 
 public class STE {
 	

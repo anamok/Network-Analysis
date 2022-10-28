@@ -2,7 +2,7 @@
  * ALtered version of Edge.java
  */
 
-package cs1501_p4;
+package Network_Analysis;
 /**
  *  The {@code Edge} class represents a weighted edge in an 
  *  {@link EdgeWeightedGraph}. Each edge consists of two integers

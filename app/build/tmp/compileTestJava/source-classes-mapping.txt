@@ -1,2 +1,0 @@
-cs1501_p4/AllTest.java
- cs1501_p4.AllTest

@@ -1,4 +1,4 @@
-package cs1501_p4;
+package Network_Analysis;
 /**
  *  The {@code DijkstraAllPairsSP} class represents a data type for solving the
  *  all-pairs shortest paths problem in edge-weighted digraphs

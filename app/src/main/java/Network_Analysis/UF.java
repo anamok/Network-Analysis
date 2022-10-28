@@ -1,4 +1,4 @@
-package cs1501_p4;
+package Network_Analysis;
 
 /**
  *  The {@code UF} class represents a <em>union–find data type</em>

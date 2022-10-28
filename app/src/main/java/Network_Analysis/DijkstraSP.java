@@ -1,4 +1,4 @@
-package cs1501_p4;
+package Network_Analysis;
 /**
  *  The {@code DijkstraSP} class represents a data type for solving the
  *  single-source shortest paths problem in edge-weighted digraphs

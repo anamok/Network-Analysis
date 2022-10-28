@@ -8,7 +8,7 @@
  *
  * @author	Anastasia Mokhon
  */
-package cs1501_p4;
+package Network_Analysis;
 
 import java.util.ArrayList;
 import java.util.Scanner;

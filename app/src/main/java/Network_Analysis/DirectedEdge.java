@@ -1,7 +1,7 @@
 /**
  * ALtered version of DirectedEdge.java
  */
-package cs1501_p4;
+package Network_Analysis;
 
 /**
  *  The {@code DirectedEdge} class represents a weighted edge in an 
